@@ -23,9 +23,9 @@ A simple and intuitive habit tracker app built using Flutter to help you build a
 
 ## 📸 App Screenshots
 <p align="center">
+  <img src="/assets/red2.jpg" alt="App Screenshot 3" width="250"/>
   <img src="/assets/red.jpg" alt="App Screenshot 1" width="250"/>
   <img src="/assets/red1.jpg" alt="App Screenshot 2" width="250"/>
-  <img src="/assets/red2.jpg" alt="App Screenshot 3" width="250"/>
 </p>
 
 ## 🚀 Getting Started
